@@ -1,4 +1,4 @@
-{% docs payment_method % }
+{% docs payment_method %}
 
 The payment method was one of the following values: 
 
